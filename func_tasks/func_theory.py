@@ -23,7 +23,7 @@
 
 # # print(calc_ingredients(4))
 
-# # ingredients_5 = calc_ingredients(5)
+# ingredients_5 = calc_ingredients(5)
 # # ingredients_8 = calc_ingredients(8)
 # # ingredients_10 = calc_ingredients(10)
 # print_ingredients(np.array([1, 2, 3, 4, 5, 6]))
